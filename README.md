@@ -1,7 +1,13 @@
 ## 👋 Hello, I'm Emon Islam
-#### I am Web Developer
+
 ![image](https://user-images.githubusercontent.com/73327452/229384032-c49a83f4-e6f7-4859-8e3b-77f98189cad8.png)
-HI, I am SM Emon Islam. I am worked at Unicoder BD as WordPress Theme Developer. Prior to that I worked at WinRock International SAFTI project as M&E Data Processor. Before that I worked ACDI/VOCA Livestock for Improved Nutrition project as a Data Management Assistant.
+### QUALIFICATIONS
+✔Able to code web pages from the ground up using HTML, CSS, Bootstrap, jQuery and JavaScript. Along with a working proficiency of the Git version control, WordPress content management and Laravel Framework.
+
+✔Fundamental understanding of mobile first design concepts, cross browser development and search engine optimization (SEO).
+
+✔2+ Years of customer service experience grant me the ability to easily communicate with clients and fellow developers to establish the necessary requirements to complete projects in a professional and timely manner. 
+
 
 
 - 🔭 I’m currently working on Laravel Project 
