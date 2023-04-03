@@ -1,6 +1,6 @@
 ## 👋 Hello, I'm Emon Islam
 
-![image](https://user-images.githubusercontent.com/73327452/229384032-c49a83f4-e6f7-4859-8e3b-77f98189cad8.png)
+![SM Emon Islam (3)](https://user-images.githubusercontent.com/73327452/229610133-c44c1913-af86-468a-8368-da28ba1a9a9a.png)
 ### QUALIFICATIONS
 ✔Able to code web pages from the ground up using HTML, CSS, Bootstrap, jQuery and JavaScript. Along with a working proficiency of the Git version control, WordPress content management and Laravel Framework.
 
